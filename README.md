@@ -1,4 +1,6 @@
-# Assessing your React Learning
+# 0064_lsw6e_sprint_challenge_react_wars
+
+## Assessing your React Learning
 
 - The purpose of this exercise is to get you used to being quizzed on _Interview Questions_ commonly asked about ReactJS.
 - Answers to your written questions will be recorded in _Answers.md_
